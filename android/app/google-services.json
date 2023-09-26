@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "33845579709",
+    "project_id": "nuthbuy",
+    "storage_bucket": "nuthbuy.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33845579709:android:c56e42a261fafbd1e0ccd4",
+        "android_client_info": {
+          "package_name": "com.example.nuth_buy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33845579709-u5t8klieh0sj5g1k0sarnas5o8n2ggbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuevd4_lQHpkDMivp4y58VZryJqB87UC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33845579709-u5t8klieh0sj5g1k0sarnas5o8n2ggbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
